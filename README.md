@@ -15,8 +15,8 @@ repositories {
     }
 }
 
-
-compile 'com.babbicool:Android_Onboard:0.1'
+implementation 'com.airbnb.android:paris:1.0.0'
+implementation 'com.babbicool:Android_Onboard:0.1'
 ```
 
 #### Implementation
