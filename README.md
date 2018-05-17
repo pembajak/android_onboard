@@ -8,6 +8,14 @@ Android Onborder Library
 Add dependency in your build.gradle
 
 ```groovy
+
+repositories {
+    maven {
+        url  "https://dl.bintray.com/pembajak/maven" 
+    }
+}
+
+
 compile 'com.babbicool:Android_Onboard:0.1'
 ```
 
