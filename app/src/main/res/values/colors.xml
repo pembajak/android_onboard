@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9E9E9E</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="window">#F5F5F5</color>
+    <color name="colorAccent">#FF5252</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#212121</color>
+    <color name="grey_3">#1d2129</color>
+
+
+    <color name="divider">#BDBDBD</color>
+    <color name="title_base_color">#9affffff</color>
+    <color name="red">#ff0036</color>
+    <color name="colorFullscreenBackground">#f2efef</color>
+    <color name="link_blue">#4d94ff</color>
+    <color name="blueGrey">#607D8B</color>
+    <color name="grey">#aaaaaa</color>
+    <color name="grey_1">#757575</color>
+    <color name="grey_2">#f7f7f7</color>
+    <color name="white">#fff</color>
+    <color name="black">#000000</color>
+    <color name="darkRed">#cc0000</color>
+    <color name="green_chat">#2ace46</color>
+    <color name="transparent">#00000000</color>
+</resources>
